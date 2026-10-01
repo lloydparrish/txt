@@ -1,0 +1,85 @@
+Privacy Policy for IdleDev Bot
+
+Effective date: October 1, 2026
+
+IdleDev Bot ("the Bot") is a private Discord application used to control and review a locally hosted software-development orchestration system.
+
+Information the Bot Processes
+
+The Bot may process information necessary to respond to Discord interactions and operate its development workflow, including:
+
+- Discord user IDs;
+- Discord server (guild) IDs;
+- Discord channel IDs;
+- Discord interaction and message IDs;
+- product ideas, requests, feedback, approvals, rejections, and other text deliberately submitted to the Bot;
+- local job, review, notification, and operational status information;
+- screenshots, test results, and other development evidence deliberately presented through the Bot.
+
+The Bot does not use the Message Content privileged intent and does not monitor ordinary Discord conversations.
+
+How Information Is Used
+
+Information is used only to provide the Bot's functionality, including:
+
+- authenticating authorized users;
+- recording submitted development requests;
+- displaying development status;
+- recording product decisions and feedback;
+- controlling approved local development-server operations;
+- presenting testing and review evidence;
+- maintaining reliable local job and notification state.
+
+Automated Development Processing
+
+When automated development functionality is enabled, information intentionally submitted for a development task may be processed by the locally operated development system and may be provided to OpenAI Codex through the operator's authenticated Codex client for software-development purposes.
+
+The Bot does not sell user information or use it for advertising.
+
+Storage
+
+The Bot's operational data is stored primarily on the operator's local Windows computer.
+
+The Discord bot token is stored in the Windows Credential Manager and is not stored in the application's source repository or operational database.
+
+Development records may include local SQLite records, logs, request history, test results, and review evidence.
+
+Sharing
+
+Information is not sold.
+
+Information may be transmitted to:
+
+- Discord, as necessary to receive interactions and send responses;
+- OpenAI Codex, when automated development functionality processes an intentionally submitted development request;
+- local development tools and services operated by the Bot owner as necessary to perform requested development work.
+
+The Bot does not intentionally provide Discord data to unrelated third parties.
+
+Retention
+
+Information is retained only as reasonably necessary to operate, audit, recover, or review development work.
+
+Operational and development records may be deleted when they are no longer needed.
+
+Data Deletion Requests
+
+A user whose information has been processed by the Bot may request deletion of applicable stored data by contacting the Bot operator through the GitHub repository hosting this Privacy Policy.
+
+Deletion requests will be handled subject to any information that must be retained for security, legal, or system-integrity purposes.
+
+Security
+
+Reasonable safeguards are used to limit access to Bot data. The Bot uses owner, server, and channel authorization checks and stores secrets separately from source code and ordinary application data.
+
+Children
+
+The Bot is not intended for use by children under the minimum age permitted by Discord.
+
+Changes to This Policy
+
+This Privacy Policy may be updated as the Bot's functionality changes. The current version will remain publicly available at this location.
+
+Contact
+
+For privacy questions or data-deletion requests, open an issue in the GitHub repository hosting this policy.
