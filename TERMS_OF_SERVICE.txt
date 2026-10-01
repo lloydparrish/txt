@@ -1,0 +1,87 @@
+Terms of Service for IdleDev Bot
+
+Effective date: October 1, 2026
+
+These Terms of Service govern use of IdleDev Bot ("the Bot"), a private Discord application used to control and review a locally hosted software-development orchestration system.
+
+By using the Bot, you agree to these Terms.
+
+1. Purpose
+
+The Bot provides development-related functions such as:
+
+- submitting product or development ideas;
+- viewing development status;
+- reviewing development evidence;
+- approving, rejecting, or requesting changes to proposed work;
+- answering product-development questions;
+- controlling specifically authorized local development-server operations.
+
+The Bot is intended primarily for private use by its operator and specifically authorized users.
+
+2. Authorized Use
+
+You may use the Bot only when authorized by its operator and only for its intended development and operational functions.
+
+You may not attempt to:
+
+- bypass authorization controls;
+- access information belonging to another user;
+- use the Bot as an arbitrary remote shell;
+- cause unauthorized commands or processes to execute;
+- interfere with the Bot, Discord, or connected systems;
+- obtain credentials, tokens, or other protected information;
+- use the Bot in violation of applicable law or Discord's rules.
+
+3. Discord
+
+Use of Discord remains subject to Discord's own Terms of Service, policies, and developer-platform rules.
+
+These Terms do not replace or modify Discord's terms.
+
+4. Automated Development
+
+Some Bot features may initiate or participate in automated software-development workflows.
+
+Automated systems can make mistakes. Generated code, recommendations, test results, or other automated outputs should not be assumed to be correct solely because they were produced automatically.
+
+The Bot operator retains authority over product acceptance and deployment decisions.
+
+5. Availability
+
+The Bot is operated on local infrastructure and may be unavailable because of:
+
+- computer shutdown or sleep;
+- internet or Discord outages;
+- maintenance;
+- software failures;
+- usage limits affecting connected development services;
+- other operational conditions.
+
+Continuous availability is not guaranteed.
+
+6. Changes and Suspension
+
+The operator may modify, restrict, suspend, or discontinue the Bot or any feature at any time.
+
+Access may be revoked if the Bot is misused or if continued access presents a security or operational risk.
+
+7. No Warranty
+
+The Bot is provided on an "as is" and "as available" basis without warranties of uninterrupted operation, error-free behavior, or fitness for a particular purpose to the extent permitted by applicable law.
+
+8. Limitation of Responsibility
+
+To the extent permitted by applicable law, the operator is not responsible for losses resulting from reliance on automated development output, temporary unavailability, software defects, or unauthorized use outside the Bot's intended controls.
+
+9. Privacy
+
+Use of information associated with the Bot is described in the Bot's publicly available Privacy Policy.
+
+10. Changes to These Terms
+
+These Terms may be updated as the Bot develops. The current version will remain publicly available at this location.
+
+11. Contact
+
+Questions about these Terms may be submitted through the GitHub repository hosting them.
